@@ -9,5 +9,5 @@ docker-compose up -d
 ### Ports
  * 5601 - Kibana
  * 9200 - Elasticsearch
- * 3000 - NestJS api
+ * 4000 - NestJS api
  * 5044 - Logstash (for Filebeat)

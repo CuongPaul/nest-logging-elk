@@ -9,7 +9,7 @@ ENV NODE_ENV=production
 RUN mkdir /app && chown -R node:node /app
 
 # Open port
-EXPOSE 3000
+EXPOSE 4000
 
 # Set default folder to /app
 WORKDIR /app
